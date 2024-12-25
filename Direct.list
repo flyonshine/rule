@@ -3,11 +3,8 @@
 
 # MyList
 #域名匹配
-DOMAIN,cf6.us.kg
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,20232024.xyz
-DOMAIN-SUFFIX,233212.xyz
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
