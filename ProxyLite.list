@@ -1,13 +1,14 @@
 # 代理补充列表
 
 #域名匹配
-DOMAIN,cf6.us.kg
+#DOMAIN,xxx.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,thwzv5ijh9wd.com
 DOMAIN-SUFFIX,tt5h4jj3nt9n.com
 DOMAIN-SUFFIX,3lky1u69bdx2.com
+DOMAIN-SUFFIX,mdghhsgc4iiy.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
